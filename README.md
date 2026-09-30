@@ -1,1 +1,1 @@
-It's the cloning of Zerodha Website.
+It's a Full Stack Stock Trading Platform.
