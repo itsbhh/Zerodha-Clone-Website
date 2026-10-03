@@ -26,4 +26,7 @@ function Hero() {
             intraday trades across equity, currency, and commodity trades.
           </p>
         </div>
-       
+        <div className="col-4 p-4">
+          <img src="media/images/pricingEquity.svg" />
+          <h1 className="fs-3">Free direct MF</h1>
+         
