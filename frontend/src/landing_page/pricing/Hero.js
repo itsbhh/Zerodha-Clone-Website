@@ -29,4 +29,14 @@ function Hero() {
         <div className="col-4 p-4">
           <img src="media/images/pricingEquity.svg" />
           <h1 className="fs-3">Free direct MF</h1>
-         
+          <p className="text-muted">
+            All direct mutual fund investments are absolutely free — ₹ 0
+            commissions & DP charges.
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Hero;
