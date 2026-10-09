@@ -12,4 +12,5 @@ function Hero() {
           Check out our{" "}
           <a href="" style={{ textDecoration: "none" }}>
             investment offerings{" "}
-           
+            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+         
