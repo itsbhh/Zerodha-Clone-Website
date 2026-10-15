@@ -36,4 +36,10 @@ function PricingPage() {
         googlePlay=""
         appStore=""
       />
-      
+      <RightSection
+        imageURL="media/images/kiteconnect.png"
+        productName="Kite Connect API"
+        productDesription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
+        learnMore=""
+      />
+     
