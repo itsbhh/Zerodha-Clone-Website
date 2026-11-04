@@ -34,4 +34,10 @@ function Universe() {
           <img src="media/images/smallcaseLogo.png" />
           <p className="text-small text-muted">Thematic investment platform</p>
         </div>
-        
+        <button
+          className="p-2 btn btn-primary fs-5 mb-5"
+          style={{ width: "20%", margin: "0 auto" }}
+        >
+          Signup Now
+        </button>
+     
