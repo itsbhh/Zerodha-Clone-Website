@@ -40,4 +40,9 @@ function Universe() {
         >
           Signup Now
         </button>
-     
+      </div>
+    </div>
+  );
+}
+
+export default Universe;
