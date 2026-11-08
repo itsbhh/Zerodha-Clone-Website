@@ -9,4 +9,10 @@ function CreateTicket() {
           <h4 className="">
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening
           </h4>
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            Online Account Opening
+          </a>
+          <br />
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            Offline Account Opening
          
