@@ -36,4 +36,8 @@ function CreateTicket() {
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Zerodha IDFC FIRST Bank 3-in-1 Account
           </a>
-        
+          <br />
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            Getting Started
+          </a>
+         
