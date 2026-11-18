@@ -53,4 +53,8 @@ function CreateTicket() {
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Offline Account Opening
           </a>
+          <br />
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            Company, Partnership and HUF Account
+          </a>
          
