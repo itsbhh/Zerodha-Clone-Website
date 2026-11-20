@@ -61,4 +61,9 @@ function CreateTicket() {
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Opening
           </a>
+          <br />
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            NRI Account Opening
+          </a>
+          <br />
          
