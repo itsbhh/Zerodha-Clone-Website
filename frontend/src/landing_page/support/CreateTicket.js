@@ -66,4 +66,8 @@ function CreateTicket() {
             NRI Account Opening
           </a>
           <br />
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            Charges at Zerodha
+          </a>
+          <br />
          
