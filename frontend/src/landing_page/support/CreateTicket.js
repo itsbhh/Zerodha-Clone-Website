@@ -87,4 +87,8 @@ function CreateTicket() {
             Online Account Opening
           </a>
           <br />
-          
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            Offline Account Opening
+          </a>
+          <br />
+         
